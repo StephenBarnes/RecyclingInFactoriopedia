@@ -1,0 +1,12 @@
+{
+	"name": "RecyclingInFactoriopedia",
+	"version": "1.0.0",
+	"title": "Recycling In Factoriopedia",
+	"author": "StephenB",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0",
+		"quality"
+	],
+	"description": "Makes recycling recipes visible in the Factoriopedia"
+}
